@@ -63,6 +63,6 @@ a {
 }
 
 a:link    { color: blue;  }
-a:visited { color: red;   }
+a:visited { color: yellow;   }
 a:hover   { color: green; }
 a:active  { color: pink;  }
