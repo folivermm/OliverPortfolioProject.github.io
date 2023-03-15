@@ -34,6 +34,7 @@ hr{
   height: 2px;
 }
 
+
 /*hi! I'm Oliver Thinkful */
 h2{
    color:beige;
@@ -56,3 +57,12 @@ p, li, ui, oi{
   color:black;
   font-family:Garamond;
 }
+
+a {
+  font-family: Garmond;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
